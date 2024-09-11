@@ -1,0 +1,232 @@
+/* GENDER */
+
+* total female = 849
+ total male = 900
+ ==================
+ 820 peoples are not suffering from Osteoporosis
+ Female = 400 percentage =48.78
+ Male = 420 percentage =51.22
+ 929 peoples are suffering from Osteoporosis
+ Female = 449 percentage =48.33
+ Male = 480 percentage =51.67
+As a result, (3.33%) of males had higher rates of osteoporosis than females.
+=============================================================================================================;
+/* Hormonal change */
+
+FROM THE ABOVE FREQUENCY REPORT
+Total individuals suffering from hormonal changes: 873
+Breakdown by gender:
+ Females: 435
+ Postmenopausal + osteoporosis: 225 (25.77%)
+ Postmenopausal, no osteoporosis: 210
+ Males: 438
+ Postmenopausal + osteoporosis: 244 (27.94%)
+ Postmenopausal, no osteoporosis: 194
+ Conclusion:
+ Hormonal change and osteoporosis: 469 individuals (53.72%)
+ Hormonal change but no osteoporosis: 404 individuals (46.27%)
+ Similar percentages between females with both conditions and those with osteoporosis only.
+ Increase in male patients with hormonal change and osteoporosis compared to those without
+ hormonal change but with osteoporosis: 1.01%
+ Overall, males have a 1.01% higher risk, with a 2.17% greater risk for osteoporosis when
+ hormonal changes are present.
+=============================================================================================================;
+/* Ancestry */
+*FROM THE ABOVE FREQUENCY REPORT
+ Out of 1749 patients 929 have OSTEOPOROSIS 53.12% of total patients data.
+ 1. OSTEOPOROSIS with Ancestry == 453 ==> 453/929*100 => 48.76%
+ So (48.76%) of total patients with Ancestry have osteoporosis
+ 2. OSTEOPOROSIS without Ancestry == 476 476/929*100 => 51.23%
+ So (51.23%) of total patients without Ancestry have osteoporosis
+ CONCLUSION :
+ Ancestry (FAMILY HISTORY ) DOES NOT HAVE MORE IMPACT ON OSTEOPOROSIS
+=============================================================================================================;
+/* Race */
+
+/* FROM THE ABOVE FREQUENCY REPORT
+ Total patients with osteoporosis: 929 (53.12% of total patients)
+ Breakdown by gender:
+ Female patients with osteoporosis: 449 (52.89% of total females)
+ Male patients with osteoporosis: 480 (53.33% of total males)
+ Ethnicity breakdown:
+9/11/24, 8:25 PM Code: Program 1
+about:blank 2/7
+ African American: 157 (18.49%)
+ Asian: 142 (16.73%)
+ Caucasian: 150 (17.67%)
+ Conclusion:
+ Overall, osteoporosis affects 53.33% of male patients and 52.89% of female patients.
+ African Americans have a higher prevalence of osteoporosis compared to Asians and Caucasians.
+=============================================================================================================;
+/* Calcium */
+
+*FROM THE ABOVE FREQUENCY REPORT
+ Total patients: 1749, with 929 (53.12%) having osteoporosis.
+ Female:
+ Osteoporosis with adequate calcium: 217 (23.35%)
+ Osteoporosis with low calcium: 232 (24.97%)
+ Conclusion: Low calcium intake has a 1.63% greater impact on osteoporosis in females compared
+ to those with adequate calcium.
+ Male:
+ Osteoporosis with adequate calcium: 240 (25.83%)
+ Osteoporosis with low calcium: 240 (25.83%)
+ Conclusion: Calcium intake doesn't affect osteoporosis in males, unlike females,
+ where low calcium intake correlates with higher osteoporosis incidence compared to adequate intake.
+*=============================================================================================================;
+/* VitaminD */
+
+*FROM THE ABOVE FREQUENCY REPORT
+ total patients: 1749, with 929 (53.12%) having osteoporosis.
+ Female:
+ Osteoporosis with sufficient Vitamin D: 217 (23.35%)
+ Osteoporosis with insufficient Vitamin D: 232 (24.97%)
+ Conclusion: Insufficient Vitamin D intake correlates with a higher likelihood of
+ osteoporosis in females compared to those with sufficient intake.
+ Male:
+ Osteoporosis with sufficient Vitamin D: 240 (25.83%)
+ Osteoporosis with insufficient Vitamin D: 240 (25.83%)
+ Conclusion: Vitamin D intake doesn't affect osteoporosis in males.
+=============================================================================================================;
+/* Exercise */
+
+*Male:
+ Total male patients: 900
+ Male patients with osteoporosis: 480 (53.33%)
+ Male patients with active (exercise): 451 (50.11%)
+ Male patients with active (exercise) and osteoporosis: 227 (25.22%)
+ Male patients with sedentary (exercise): 449 (48.89%)
+ Male patients with sedentary (exercise) and osteoporosis: 253 (28.11%)
+ Conclusion: Male patients with sedentary exercise have a 2.89% higher risk of
+ osteoporosis compared to those with active exercise.
+Female:
+ Total female patients: 849
+ Female patients with osteoporosis: 449 (52.89%)
+ Female patients with active (exercise): 447 (52.65%)
+ Female patients with active (exercise) and osteoporosis: 250 (29.45%)
+ Female patients with sedentary (exercise): 402 (47.35%)
+ Female patients with sedentary (exercise) and osteoporosis: 199 (23.44%)
+ Conclusion: Female patients with active exercise have a 6.01% higher risk of
+ osteoporosis compared to those with sedentary exercise.
+=============================================================================================================;
+/* Smoking */
+
+/*FROM THE ABOVE FREQUENCY REPORT
+ Male:
+ Total male patients: 900
+ Male patients with osteoporosis: 480 (53.33%)
+ Male patients who smoke: 436 (48.44%)
+ Male smokers with osteoporosis: 224 (24.88%)
+ Male patients who don't smoke: 464 (51.55%)
+ Non-smoking male patients with osteoporosis: 256 (28.44%)
+ Conclusion: Male patients with osteoporosis who don't smoke are 3.56% more than those who do smoke.
+ Female:
+ Total female patients: 849
+ Female patients with osteoporosis: 449 (52.89%)
+ Female patients who smoke: 453 (53.35%)
+ Female smokers with osteoporosis: 234 (27.56%)
+ Female patients who don't smoke: 396 (46.64%)
+ Non-smoking female patients with osteoporosis: 215 (25.32%)
+ Conclusion: Female patients with osteoporosis who smoke are 2.24% more than those who don't smoke.
+ Overall Conclusion:
+ Smoking doesn't affect male patients regarding osteoporosis, whereas female patients who smoke
+ have a higher risk of developing osteoporosis compared to non-smokers.
+ */
+*===========================================================================================================;
+/* Alcohol */
+
+/*FROM THE ABOVE FREQUENCY REPORT
+Male:
+ Total male patients: 900
+ Male patients with osteoporosis: 480 (53.33%)
+ Male patients who drink alcohol: 446 (49.55%)
+ Male drinkers with osteoporosis: 237 (26.33%)
+ Male patients who don't drink alcohol: 454 (50.44%)
+ Non-drinking male patients with osteoporosis: 243 (27%)
+ Conclusion: Male osteoporosis patients who don't drink alcohol have a 0.67% higher risk compared
+ to those who do.
+Female:
+ Total female patients: 849
+ Female patients with osteoporosis: 449 (52.89%)
+ Female patients who drink alcohol: 431 (50.76%)
+ Female drinkers with osteoporosis: 229 (26.97%)
+ Female patients who don't drink alcohol: 418 (49.23%)
+ Non-drinking female patients with osteoporosis: 220 (25.91%)
+ Conclusion: Female osteoporosis patients who drink alcohol have a 1.06% higher risk compared to
+ non-drinkers.
+Overall Conclusion:
+ Drinking alcohol doesn't affect male patients regarding osteoporosis, whereas female patients
+ who drink alcohol have a higher risk of developing osteoporosis compared to non-drinkers.
+ */
+*===========================================================================================================;
+/* Condition */
+
+/*FROM THE ABOVE FREQUENCY REPORT
+IN MALE
+ =======
+ Total male patients ==> 900
+Total male with Osteoporosis patients ==> 480 => 480/900*100 => (53.33%) of total male have Osteoporosis.
+ Total male patients who Drink Alcohol ==> 446 ==> 446/900*100 => (49.55%)
+ Total male patients who Drink Alcohol and have Osteoporosis ==> 237 ==> 237/900*100 => (26.33%)
+ Total male patients who don't Drink Alcohol ==> 454 ==> 454/900*100 => (50.44%)
+ Total male patients who don't Drink Alcohol and have Osteoporosis ==> 243 ==> 243/900*100 => (27%)
+CONCLUSION :
+---------->
+Male osteoporosis patients who do not use alcohol have a 0.67% higher risk compared to those who do.
+ FEMALE
+ ======
+ Total Female patients ==> 849
+ Total Female with Osteoporosis patients ==> 449 => 480/849*100 => (52.89%) of total Female have Osteoporosis.
+ Total Female patients who Drink Alcohol ==> 431 ==> 431/849*100 => (50.76%)
+ Total Female patients who Drink Alcohol and have Osteoporosis ==> 229 ==> 229/849*100 => (26.97%)
+ Total Female patients who don't Drink Alcohol ==> 418 ==> 418/849*100 => (49.23%)
+ Total Female patients who don't Drink Alcohol and have Osteoporosis ==> 220 ==> 220/849*100 => (25.91%)
+CONCLUSION :
+---------->
+Female osteoporosis patients who drink alcohol have a 1.06% higher risk
+compared to those who do not consume alcohol.
+CONCLUSION :
+---------->
+While drinking alcohol does not affect male patients, female patients who drink alcohol have a higher
+risk of developing osteoporosis compared to those who do not drink alcohol.
+ */
+*===========================================================================================================;
+
+/* Medications */
+
+/*FROM THE ABOVE FREQUENCY REPORT
+Male:
+ Total male patients: 900
+ Male patients with osteoporosis: 480 (53.33%)
+ Male patients who take medications: 449 (49.88%)
+ Male patients on medications with osteoporosis: 238 (26.44%)
+ Male patients who don't take medications: 451 (50.11%)
+ Male patients not on medications with osteoporosis: 242 (26.88%)
+ Conclusion: Male osteoporosis patients who don't take medications have a 0.44% higher
+ risk compared to those who do.
+Female:
+ Total female patients: 849
+ Female patients with osteoporosis: 449 (52.89%)
+ Female patients who take medications: 431 (50.76%)
+ Female patients on medications with osteoporosis: 241 (28.36%)
+9/10/24, 5:50 PM Code: project code.sas
+about:blank 5/6
+ Female patients who don't take medications: 418 (49.23%)
+ Female patients not on medications with osteoporosis: 208 (24.49%)
+ Conclusion: Female osteoporosis patients who take medications have a 3.87% higher
+ risk compared to those who don't.
+Overall Conclusion:
+ Taking medications doesn't affect male patients regarding osteoporosis, whereas female
+ patients who take medications have a higher risk of developing osteoporosis compared to those who don't.
+ */
+*============================================================================================================;
+/* Fractures */
+
+*Male:
+ Total male patients: 900
+ Male patients with osteoporosis: 480 (53.33%)
+ Male patients with fractures: 443 (49.22%)
+ Male patients with fractures and osteoporosis: 241 (26.78%)
+ Male patients without fractures and osteoporosis: 239 (26.56%)
+ Conclusion: Male patients with fractures are slightly (0.22%) greater than those without fractures.
+Female:
+Total female patients: 849;
